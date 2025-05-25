@@ -46,6 +46,31 @@ These assumptions are made based on the information available:
 
 ---
 
+## ❓ Key Questions for the Initial Meeting
+
+### Business Focused
+- What is the current stepwise process for employee onboarding?
+- What materials or training tools are provided to new employees?
+- Which errors or problems occur most frequently during onboarding?
+
+### Client Focused
+- How do clients currently sign up for your services?
+- What specific steps are involved in the client intake process?
+- Is there a preferred communication channel?
+- Are there specific services that require unique onboarding steps?
+
+### Technology Focused
+- Are there any existing digital tools or platforms in use?
+- What is the budget range for a software solution?
+- Is there a preference between mobile app vs web portal?
+
+### Personnel Focused
+- How many employees are currently being onboarded at any given time?
+- What roles or positions are the hardest to onboard?
+- How do senior staff currently assist in onboarding?
+
+---
+
 *Prepared by: Harshavardhan Reddy Singireddy*  
 *Date: 25-05-2025*  
 *Project: Pet Daycare Onboarding System*
