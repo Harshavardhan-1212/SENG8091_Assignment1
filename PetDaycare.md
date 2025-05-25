@@ -80,6 +80,40 @@ These assumptions are made based on the information available:
 
 ---
 
+## ✅ Preliminary Task List (Name Only)
+
+### 🧑‍🏫 Employee Onboarding
+- Define Employee Onboarding Workflow  
+- Create Training Content Library  
+- Design Progress Tracking System
+- Set Up Automated Reminders  
+
+---
+
+### 🐾 Client Onboarding
+- Design Standard Client Intake Form  
+- Build Online Client Form Submission  
+- Develop Staff Onboarding Checklist
+- Integrate Appointment Booking  
+- Set Up Welcome Notification System  
+
+
+### 🧑‍💼 Admin & Oversight
+- Build Admin Dashboard  
+- Onboarding progress overview panel
+- Staff performance metrics
+- Enable Feedback Collection System  
+
+---
+
+### ⚙️ General System
+- User permission structure
+- Responsive UI/UX design
+- Testing & QA strategy
+- Data privacy and security plan
+
+---
+
 *Prepared by: Harshavardhan Reddy Singireddy*  
 *Date: 25-05-2025*  
 *Project: Pet Daycare Onboarding System*
