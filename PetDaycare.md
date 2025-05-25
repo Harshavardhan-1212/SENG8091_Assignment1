@@ -71,6 +71,15 @@ These assumptions are made based on the information available:
 
 ---
 
+## 🔄 Follow-Up Clarification Questions
+
+- What defines a successful onboarding for both employees and clients?
+- Are there any government or industry compliance standards we should be aware of?
+- What client data is essential during onboarding?
+- What feedback have clients given specifically about the process?
+
+---
+
 *Prepared by: Harshavardhan Reddy Singireddy*  
 *Date: 25-05-2025*  
 *Project: Pet Daycare Onboarding System*
