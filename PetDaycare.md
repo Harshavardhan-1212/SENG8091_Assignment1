@@ -88,8 +88,6 @@ These assumptions are made based on the information available:
 - Design Progress Tracking System
 - Set Up Automated Reminders  
 
----
-
 ### 🐾 Client Onboarding
 - Design Standard Client Intake Form  
 - Build Online Client Form Submission  
@@ -97,14 +95,11 @@ These assumptions are made based on the information available:
 - Integrate Appointment Booking  
 - Set Up Welcome Notification System  
 
-
 ### 🧑‍💼 Admin & Oversight
 - Build Admin Dashboard  
 - Onboarding progress overview panel
 - Staff performance metrics
 - Enable Feedback Collection System  
-
----
 
 ### ⚙️ General System
 - User permission structure
