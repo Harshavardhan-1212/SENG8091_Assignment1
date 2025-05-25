@@ -22,6 +22,30 @@ These assumptions are made based on the information available:
 
 ---
 
+## 🧩 Broken Down Requirements (Based on Scenario)
+
+### A. Employee Onboarding
+- Create a clear, step by step onboarding process for new employees.
+- Centralize training materials in one easy to access location.
+- Track each employee’s progress through the onboarding process.
+- Send automatic reminders to employees about training tasks.
+
+### B. Client Onboarding
+- Use one consistent intake form for all new clients
+- Make Simple, user-friendly digital form for clients onboarding.
+- Ensure all employees follow the same steps when onboarding clients.
+- Link onboarding to appointment booking for services.
+- Send a welcome message once a client is successfully onboarded.
+
+### C. Admin/Owner Tools
+- Dashboard to see onboarding status for employees and clients.
+- Identify delays or issues in the onboarding process.
+- Track how long onboarding takes for employees and clients.
+- Collect feedback from clients and employees.
+- Control who can access what in the system.
+
+---
+
 *Prepared by: Harshavardhan Reddy Singireddy*  
 *Date: 25-05-2025*  
 *Project: Pet Daycare Onboarding System*
